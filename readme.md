@@ -1,1 +1,1 @@
-will populate with code after the deadline.
+Example sequence optimization and simulated reconstruction code
